@@ -1,6 +1,15 @@
+tr{
+	width: 100%;
+	height: 100%;
+}
+
+td{
+	width:33%;
+	height:33%;
+
 img{
-	width: 50%;
-	height: 50%;
+	width: 100%;
+	height: 100%;
 
 }
 
