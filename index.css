@@ -16,6 +16,11 @@ img{
 	height: 100%;
 
 }
+	
+fieldset
+{
+    float: left;
+}
 
 footer {
     position: fixed; 
