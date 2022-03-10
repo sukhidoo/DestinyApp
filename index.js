@@ -6,3 +6,11 @@ function Clickity (Clackity) {
 	warlock.setAttribute('src',titan.getAttribute("src"));
 	titan.setAttribute('src',Clackity);
 }
+function Cleanse (Darkness) {
+	var zone = document.getElementById("1st");
+	var witness = document.getElementById("2nd");
+	var pyramid = document.getElementById("3rd");
+	zone.setAttribute('src',Darkness);
+	witness.setAttribute('src',Darkness);
+	pyramid.setAttribute('src',Darkness)
+}
